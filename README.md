@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rosalie-Zhang
-- 👀 I’m interested in being a programmer or a civil servant
-- 🌱 I’m currently learning c++ in Shanghai University of Finance&Economics
+- 🌱 I’m currently learning CS in Shanghai University of Finance&Economics
 - 📫 Reach me:1810834413@qq.com
 
 <!---
